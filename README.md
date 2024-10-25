@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ukasha Usman! 👋
 
-<!--
-**UkashaUsman/UkashaUsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a dedicated student at **Sir Syed University of Engineering & Technology** in Karachi, Sindh, Pakistan. My passion lies in **web development**, where I strive to create user-friendly and visually appealing websites. I am constantly learning and eager to explore new technologies and frameworks.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+### Languages
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Libraries
+- React
+- Bootstrap
+
+### Version Control
+- Git
+- GitHub
+
+## 📫 Connect with Me
+- **LinkedIn**: https://www.linkedin.com/in/ukashausman/
+
+## 💡 Fun Facts
+- I love exploring new web technologies and experimenting with design.
